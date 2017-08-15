@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Predicto</string>
+    
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_croppredictor">Croppredictor</string>
+    <string name="title_activity_aboutus">Aboutus</string>
+    <string name="select_soil">Select Soil </string>
+    <string-array name="soil_names">
+        <item>Alluvial soils</item>
+        <item>Black soils</item>
+        <item>Desert soils</item>
+        <item>Glaciers</item>
+        <item>Grey and Brown soils</item>
+        <item>Laterite soils</item>
+        <item>Mixed Red and Black soils</item>
+        <item>Mountain soils</item>
+        <item>Red and Yellow soils</item>
+        <item>Red Loamy soils</item>
+        <item>Red sandy soils</item>
+        <item>Skelletal soils</item>
+        <item>Sub Mountain soils</item>
+        <item>Teral soils </item>
+    </string-array>
+    <string name="select_income">Anual Income </string>
+    <string-array name="income_names">
+        <item>Less Than 10 Thousand </item>
+        <item>10 Thousand to 20 Thousand</item>
+        <item>20 Thousand to 50 Thousand</item>
+        <item>50 Thousand to 1 Lakh</item>
+        <item>1 Lakh to 2 Lakh</item>
+        <item>2 Lakh to 5 Lakh</item>
+        <item>5 Lakh to 10 Lakh</item>
+        <item>10 Lakh to 20 Lakh</item>
+        <item>20 Lakh to 50 Lakh</item>
+        <item>50 Lakh to 1 Cr</item>
+        <item>More than 1 Cr</item>
+    </string-array>
+</resources>

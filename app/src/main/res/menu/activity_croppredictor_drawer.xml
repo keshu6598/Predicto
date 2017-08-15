@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/croppredictor"
+            android:title="Crop Predictor" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/aboutus"
+            android:title="About Us" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/cd"
+            android:title="C" />
+        <item
+            android:icon="@drawable/cdd"
+            android:title="D"
+            android:id="@+id/ddd"
+            />
+        <item
+            android:icon="@drawable/cddd"
+            android:title="E"
+            android:id="@+id/eee"
+            />
+        <item
+            android:id="@+id/fff"
+            android:title="F"
+            android:icon="@drawable/cdddd"
+            />
+    </group>
+
+
+</menu>
+
